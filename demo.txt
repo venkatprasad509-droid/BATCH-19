@@ -1,0 +1,6 @@
+inline element
+block element
+
+inline element:elements which occupy only the necessary spacing required by the element,<span>,img
+block element:elements which occupy 100% width as its width are called as block element
+<div>,<p>,h1,
