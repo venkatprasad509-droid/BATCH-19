@@ -4,3 +4,18 @@ block element
 inline element:elements which occupy only the necessary spacing required by the element,<span>,img
 block element:elements which occupy 100% width as its width are called as block element
 <div>,<p>,h1,
+
+
+gitlab,github
+
+git init
+
+git add .
+ git branch demo
+ git branch
+ git checkout backend
+ git branch
+ git commit -m "code pushed"
+ git push origin main
+ git pull 
+ git config user.name "fbhdf"
