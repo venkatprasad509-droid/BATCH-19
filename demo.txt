@@ -19,3 +19,10 @@ git add .
  git push origin main
  git pull 
  git config user.name "fbhdf"
+
+
+<hr><br>
+
+
+branch:it is subbranches present inside the repository folder
+
